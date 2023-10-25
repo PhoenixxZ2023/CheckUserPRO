@@ -92,14 +92,14 @@ if __name__ == "__main__":
         print(f"")
 
         print(f"Selecione uma opção:")
-        print(f" 1 - Matar porta 5454")
-        print(f" 2 - Iniciar checkuser")
-        print(f" 3 - Parar checkuser")
-        print(f" 4 - Verificar links")
-        print(f" 5 - Sobre")
-        print(f" 0 - Sair do menu")
+        print(f" 1 - ELIMINAR PORTA 5454")
+        print(f" 2 - INICIAR CHECKUSER")
+        print(f" 3 - PARAR CHECKUSER")
+        print(f" 4 - VERIFICAR LINKS")
+        print(f" 5 - SOBRE!!")
+        print(f" 0 - SAIR DO MENU")
 
-        option = input("Digite a opção: ")
+        option = input("Escolha uma opção: ")
 
         
 if option == "1":
