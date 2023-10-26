@@ -92,7 +92,7 @@ if __name__ == "__main__":
         print(f"")
 
         print(f"Selecione uma opção:")
-        print(f" 1 - ELIMINAR PORTA 5454")
+        print(f" 1 - MATAR PORTA 5454")
         print(f" 2 - INICIAR CHECKUSER")
         print(f" 3 - PARAR CHECKUSER")
         print(f" 4 - VERIFICAR LINKS")
