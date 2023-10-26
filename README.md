@@ -3,7 +3,7 @@
 para fazer a instalação rode o seguinte comando !
 
 ```
-bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/MegaCheckUser/master/install.sh) && iniciar
+bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/CheckUserPRO/master/install.sh) && iniciar
 ```
 
 Para iniciar o checkuser menu: 
